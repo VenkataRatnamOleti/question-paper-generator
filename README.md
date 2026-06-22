@@ -5,7 +5,6 @@
 ## 📑 Table of Contents
 
 - [Description](#description)
-- [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Quick Start](#quick-start)
@@ -20,14 +19,6 @@
 ## 📝 Description
 
 question-paper-generator — a backend api built with Express.js, React, Tailwind CSS, TypeScript, Vite.
-
-## 📸 Screenshots
-
-![dashboard mockup 1782110592523](https://raw.githubusercontent.com/VenkataRatnamOleti/question-paper-generator/main/src/assets/images/dashboard_mockup_1782110592523.jpg)
-
-![exam mockup 1782110627845](https://raw.githubusercontent.com/VenkataRatnamOleti/question-paper-generator/main/src/assets/images/exam_mockup_1782110627845.jpg)
-
-![parameters mockup 1782110611628](https://raw.githubusercontent.com/VenkataRatnamOleti/question-paper-generator/main/src/assets/images/parameters_mockup_1782110611628.jpg)
 
 ## 🛠️ Tech Stack
 
